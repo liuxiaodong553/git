@@ -7,3 +7,4 @@ doc/auth_test.sql:数据库脚本
 登录名：adimn
 密码：admin
 
+5200
