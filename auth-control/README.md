@@ -8,3 +8,7 @@ doc/auth_test.sql:数据库脚本
 密码：admin
 
 5200
+
+888
+99
+36
