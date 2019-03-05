@@ -17,7 +17,7 @@ public class IndexController {
 	@RequestMapping(value={"/","/index"})
 	public ModelAndView index(){
 		ModelAndView mov=new ModelAndView("index");
-		System.out.println(5);
+		System.out.println(55);
 		return mov;
 	}
 }
